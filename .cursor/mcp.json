@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "shadcn": {
+      "url": "https://www.shadcn.io/api/mcp"
+    },
+    "@magicuidesign/mcp": {
+      "command": "npx",
+      "args": ["-y", "@magicuidesign/mcp@latest"]
+    }
+  }
+}
