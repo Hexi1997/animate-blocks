@@ -1,0 +1,10 @@
+---
+description: "miscs"
+alwaysApply: true
+---
+
+## Output Rules
+
+- Only generate source code files that are directly relevant.
+- Do not generate demo files, test files, or documentation files.
+- Keep outputs minimal and focused on production code.
